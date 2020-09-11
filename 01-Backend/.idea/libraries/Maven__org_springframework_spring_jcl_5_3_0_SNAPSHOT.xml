@@ -1,13 +1,13 @@
 <component name="libraryTable">
   <library name="Maven: org.springframework:spring-jcl:5.3.0-SNAPSHOT">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.3.0-SNAPSHOT/spring-jcl-5.3.0-20200902.162843-351.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.3.0-SNAPSHOT/spring-jcl-5.3.0-20200905.112258-356.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.3.0-SNAPSHOT/spring-jcl-5.3.0-20200902.162843-351-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.3.0-SNAPSHOT/spring-jcl-5.3.0-20200905.112258-356-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.3.0-SNAPSHOT/spring-jcl-5.3.0-20200902.162843-351-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.3.0-SNAPSHOT/spring-jcl-5.3.0-20200905.112258-356-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

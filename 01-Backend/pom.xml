@@ -63,6 +63,12 @@
 			<artifactId>h2</artifactId>
 			<scope>runtime</scope>
 		</dependency>
+
+		<dependency>
+			<groupId>javax.validation</groupId>
+			<artifactId>validation-api</artifactId>
+			<version>2.0.1.Final</version>
+		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-tomcat</artifactId>
@@ -77,6 +83,10 @@
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>org.assertj</groupId>
+			<artifactId>assertj-core</artifactId>
 		</dependency>
 	</dependencies>
 
@@ -102,7 +112,7 @@
 				<configuration>
 					<repository>bartxx/${project.name}</repository>
 					<tag>${project.version}</tag>
-					<skipDockerInfo>true</skipDockerInfo>
+<!--					<skipDockerInfo>true</skipDockerInfo>-->
 				</configuration>
 			</plugin>
 		</plugins>
